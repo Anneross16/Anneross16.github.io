@@ -8,6 +8,10 @@
 
 ## Templates 
 This is placeholder text. For my ENG 350 proposal, I committed to building out my site before adding in my personal work. My goal this summer is to continue fleshing out this space, including more CSS customization, integrating YAML, Jekyll, and JSON, and improving user interface. 
+<ul> 
+	<li> [title with hyperlink to source] </li>
+	[short description]
+</ul>
 
 ## Languages and Skills 
 <ul>
