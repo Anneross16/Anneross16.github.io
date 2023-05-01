@@ -19,3 +19,4 @@ This is placeholder text. For my ENG 350 proposal, I committed to building out m
 ## FAQs
 <ul>
 	<li> What is a technical writer?</li> 
+	Technical writers communicate complex information to a variety of audiences. We're best known for writing those instruction manuals that you get in a box and immediately throw away. However, we also 
