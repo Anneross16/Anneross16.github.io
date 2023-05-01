@@ -14,6 +14,7 @@ This is placeholder text. For my ENG 350 proposal, I committed to building out m
 	<li> Front-End: HTML, CSS, JavaScript, and React
 	<li> Back-End: C++, C#, Python, Ruby
 	<li> Previous Projects: APIs and RESTful services, SEO, and UX and UI
+</ul>
 
 ## FAQs
 <ul>
