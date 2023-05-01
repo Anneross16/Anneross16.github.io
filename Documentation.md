@@ -1,6 +1,10 @@
 # Documentation
 ### Table of Contents 
 <ul> 
-	<li> What is a technical writer? </li> 
-	<li> What kind of technical work have you done?
-	<li> What are templates? </li> 
+	<li> Templates </li> 
+	<li> Languages and Skills </li> 
+	<li> FAQs </li>
+</ul>
+## Templates 
+This is placeholder text. For my ENG 350 proposal, I committed to building out my site before adding in my personal work.
+## Languages and Skills 
