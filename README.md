@@ -1,8 +1,8 @@
 # Anneross16.github.io
-Welcome! This is my personal portfolio. Here, you'll find my techical and creative writing. 
+Welcome! This is my personal portfolio. Here, you'll find my techical and creative writing. Also, I am in progress! 
 
 ## About Me
-I'm Anne Ross (it's a double name)! I'm a recent graduate of NC State University, where I earned degrees in English (conc. technical and professional writing) and Spanish, as well as a minor in sociology. I've worked in several industries as a technical communicator, including software and hardware engineering, science and medicine, and law and politics. However, I'm currently preparing to serve as a Spanish literacy promoter in the Dominican Republic. 
+I'm Anne Ross (it's a double name)! I'm a recent graduate of NC State University, where I earned degrees in English (conc. technical and professional writing) and Spanish, as well as a minor in sociology. I've worked in several industries as a technical communicator and designer, including software and hardware engineering, entertainment, science and medicine, and law and politics. 
 
 In my free time, you may find me crocheting poorly, running the wrong way in Halo 4, or spending time outdoors. 
 
